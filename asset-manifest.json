@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%20//rvrepo.github.io/weather-app/static/css/main.57c79cc4.chunk.css",
+    "main.js": "/%20//rvrepo.github.io/weather-app/static/js/main.ef9a7640.chunk.js",
+    "main.js.map": "/%20//rvrepo.github.io/weather-app/static/js/main.ef9a7640.chunk.js.map",
+    "runtime-main.js": "/%20//rvrepo.github.io/weather-app/static/js/runtime-main.f767c230.js",
+    "runtime-main.js.map": "/%20//rvrepo.github.io/weather-app/static/js/runtime-main.f767c230.js.map",
+    "static/js/2.5436015b.chunk.js": "/%20//rvrepo.github.io/weather-app/static/js/2.5436015b.chunk.js",
+    "static/js/2.5436015b.chunk.js.map": "/%20//rvrepo.github.io/weather-app/static/js/2.5436015b.chunk.js.map",
+    "index.html": "/%20//rvrepo.github.io/weather-app/index.html",
+    "precache-manifest.d30c51d3531e1cd0ca52830fcfbd66a3.js": "/%20//rvrepo.github.io/weather-app/precache-manifest.d30c51d3531e1cd0ca52830fcfbd66a3.js",
+    "service-worker.js": "/%20//rvrepo.github.io/weather-app/service-worker.js",
+    "static/css/main.57c79cc4.chunk.css.map": "/%20//rvrepo.github.io/weather-app/static/css/main.57c79cc4.chunk.css.map",
+    "static/js/2.5436015b.chunk.js.LICENSE.txt": "/%20//rvrepo.github.io/weather-app/static/js/2.5436015b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f767c230.js",
+    "static/js/2.5436015b.chunk.js",
+    "static/css/main.57c79cc4.chunk.css",
+    "static/js/main.ef9a7640.chunk.js"
+  ]
+}
